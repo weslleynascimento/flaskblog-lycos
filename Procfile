@@ -1,1 +1,1 @@
-web: gunicorn flaskblog-lycos:app
+web: gunicorn app:app
